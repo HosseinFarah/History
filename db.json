@@ -1,0 +1,505 @@
+{
+    "notes": [
+      {
+        "id": "1",
+        "content": "HTML is easy",
+        "important": true
+      },
+      {
+        "id": "2",
+        "content": "Browser can execute only JavaScript",
+        "important": false
+      },
+      {
+        "id": "3",
+        "content": "GET and POST are the most important methods of HTTP protocol",
+        "important": true
+      },
+      {
+        "id": "4",
+        "content": "CSS makes the web beautiful",
+        "important": false
+      },
+      {
+        "id": "5",
+        "content": "JavaScript adds interactivity",
+        "important": true
+      },
+      {
+        "id": "6",
+        "content": "HTML forms the structure of a web page",
+        "important": false
+      },
+      {
+        "id": "7",
+        "content": "HTTP is the protocol of the web",
+        "important": true
+      },
+      {
+        "id": "8",
+        "content": "APIs allow services to communicate",
+        "important": false
+      },
+      {
+        "id": "9",
+        "content": "JavaScript is the language of the web",
+        "important": true
+      },
+      {
+        "id": "10",
+        "content": "Node.js allows JavaScript to run on the server",
+        "important": false
+      },
+      {
+        "id": "11",
+        "content": "React is a popular JavaScript library",
+        "important": true
+      },
+      {
+        "id": "12",
+        "content": "Git helps in version control",
+        "important": false
+      },
+      {
+        "id": "13",
+        "content": "GitHub hosts your repositories",
+        "important": true
+      },
+      {
+        "id": "14",
+        "content": "Bootstrap is a CSS framework",
+        "important": false
+      },
+      {
+        "id": "15",
+        "content": "Web development requires continuous learning",
+        "important": true
+      },
+      {
+        "id": "16",
+        "content": "A REST API is stateless",
+        "important": false
+      },
+      {
+        "id": "17",
+        "content": "You can use JSON to transfer data",
+        "important": true
+      },
+      {
+        "id": "18",
+        "content": "JavaScript frameworks speed up development",
+        "important": false
+      },
+      {
+        "id": "19",
+        "content": "Promises handle asynchronous operations",
+        "important": true
+      },
+      {
+        "id": "20",
+        "content": "Understanding the DOM is crucial for web development",
+        "important": false
+      },
+      {
+        "id": "21",
+        "content": "Webpack bundles your JavaScript files",
+        "important": true
+      },
+      {
+        "id": "22",
+        "content": "Redux manages state in React applications",
+        "important": false
+      },
+      {
+        "id": "23",
+        "content": "APIs can be RESTful",
+        "important": true
+      },
+      {
+        "id": "24",
+        "content": "Cross-Origin Resource Sharing (CORS) must be understood",
+        "important": false
+      },
+      {
+        "id": "25",
+        "content": "A good understanding of HTTP status codes is essential",
+        "important": true
+      },
+      {
+        "id": "26",
+        "content": "JavaScript allows event handling",
+        "important": false
+      },
+      {
+        "id": "27",
+        "content": "Using async/await makes asynchronous code cleaner",
+        "important": true
+      },
+      {
+        "id": "28",
+        "content": "Web development includes front-end and back-end development",
+        "important": false
+      },
+      {
+        "id": "29",
+        "content": "HTML forms capture user input",
+        "important": true
+      },
+      {
+        "id": "30",
+        "content": "Browsers have different rendering engines",
+        "important": false
+      },
+      {
+        "id": "31",
+        "content": "JSON is a lightweight data-interchange format",
+        "important": true
+      },
+      {
+        "id": "32",
+        "content": "CSS can be used for responsive design",
+        "important": false
+      },
+      {
+        "id": "33",
+        "content": "JavaScript functions can be anonymous",
+        "important": true
+      },
+      {
+        "id": "34",
+        "content": "Object-Oriented Programming is useful in JavaScript",
+        "important": false
+      },
+      {
+        "id": "35",
+        "content": "HTML5 introduces new elements",
+        "important": true
+      },
+      {
+        "id": "36",
+        "content": "Flexbox is a CSS layout model",
+        "important": false
+      },
+      {
+        "id": "37",
+        "content": "JavaScript can manipulate the DOM",
+        "important": true
+      },
+      {
+        "id": "38",
+        "content": "ES6 introduced new JavaScript features",
+        "important": false
+      },
+      {
+        "id": "39",
+        "content": "Modules help in organizing JavaScript code",
+        "important": true
+      },
+      {
+        "id": "40",
+        "content": "Node Package Manager (npm) is essential for JavaScript development",
+        "important": false
+      },
+      {
+        "id": "41",
+        "content": "You can make HTTP requests using Fetch API",
+        "important": true
+      },
+      {
+        "id": "42",
+        "content": "CSS Grid is a powerful layout tool",
+        "important": false
+      },
+      {
+        "id": "43",
+        "content": "React uses a virtual DOM",
+        "important": true
+      },
+      {
+        "id": "44",
+        "content": "Understanding closures is important in JavaScript",
+        "important": false
+      },
+      {
+        "id": "45",
+        "content": "AJAX allows asynchronous data loading",
+        "important": true
+      },
+      {
+        "id": "46",
+        "content": "WebSockets enable real-time communication",
+        "important": false
+      },
+      {
+        "id": "47",
+        "content": "You can use CSS preprocessors like SASS",
+        "important": true
+      },
+      {
+        "id": "48",
+        "content": "JavaScript engines power modern browsers",
+        "important": false
+      },
+      {
+        "id": "49",
+        "content": "Single-page applications are built with JavaScript frameworks",
+        "important": true
+      },
+      {
+        "id": "50",
+        "content": "Understanding event bubbling and capturing is essential",
+        "important": false
+      },
+      {
+        "id": "51",
+        "content": "Web development requires debugging skills",
+        "important": true
+      },
+      {
+        "id": "52",
+        "content": "Async/await simplifies promise-based code",
+        "important": false
+      },
+      {
+        "id": "53",
+        "content": "Web APIs provide useful functions",
+        "important": true
+      },
+      {
+        "id": "54",
+        "content": "Understanding the box model is crucial for CSS",
+        "important": false
+      },
+      {
+        "id": "55",
+        "content": "JavaScript can be used for both front-end and back-end development",
+        "important": true
+      },
+      {
+        "id": "56",
+        "content": "Regular expressions are powerful tools in JavaScript",
+        "important": false
+      },
+      {
+        "id": "57",
+        "content": "CSS animations bring life to web pages",
+        "important": true
+      },
+      {
+        "id": "58",
+        "content": "Responsive design is essential for modern web development",
+        "important": false
+      },
+      {
+        "id": "59",
+        "content": "JavaScript arrays are versatile",
+        "important": true
+      },
+      {
+        "id": "60",
+        "content": "Higher-order functions are a key concept in JavaScript",
+        "important": false
+      },
+      {
+        "id": "61",
+        "content": "CSS selectors can be very specific",
+        "important": true
+      },
+      {
+        "id": "62",
+        "content": "JavaScript has first-class functions",
+        "important": false
+      },
+      {
+        "id": "63",
+        "content": "APIs are a bridge between different software systems",
+        "important": true
+      },
+      {
+        "id": "64",
+        "content": "HTML forms are used to collect user data",
+        "important": false
+      },
+      {
+        "id": "65",
+        "content": "JavaScript supports object-oriented programming",
+        "important": true
+      },
+      {
+        "id": "66",
+        "content": "CSS can be used to create layouts",
+        "important": false
+      },
+      {
+        "id": "67",
+        "content": "The Document Object Model (DOM) is an essential concept",
+        "important": true
+      },
+      {
+        "id": "68",
+        "content": "JavaScript can be asynchronous",
+        "important": false
+      },
+      {
+        "id": "69",
+        "content": "CSS transitions allow smooth changes between states",
+        "important": true
+      },
+      {
+        "id": "70",
+        "content": "HTML elements are the building blocks of web pages",
+        "important": false
+      },
+      {
+        "id": "71",
+        "content": "Promises are a better way to handle asynchronous operations",
+        "important": true
+      },
+      {
+        "id": "72",
+        "content": "CSS frameworks speed up development",
+        "important": false
+      },
+      {
+        "id": "73",
+        "content": "JavaScript allows for dynamic web pages",
+        "important": true
+      },
+      {
+        "id": "74",
+        "content": "Using modules makes JavaScript more maintainable",
+        "important": false
+      },
+      {
+        "id": "75",
+        "content": "Understanding the event loop is important in JavaScript",
+        "important": true
+      },
+      {
+        "id": "76",
+        "content": "JSON is widely used for API data",
+        "important": false
+      },
+      {
+        "id": "77",
+        "content": "JavaScript can be used to manipulate CSS",
+        "important": true
+      },
+      {
+        "id": "78",
+        "content": "ES6 introduced arrow functions",
+        "important": false
+      },
+      {
+        "id": "79",
+        "content": "JavaScript's spread operator is useful",
+        "important": true
+      },
+      {
+        "id": "80",
+        "content": "CSS media queries help in responsive design",
+        "important": false
+      },
+      {
+        "id": "81",
+        "content": "JavaScript event delegation improves performance",
+        "important": true
+      },
+      {
+        "id": "82",
+        "content": "CSS pseudo-classes allow styling based on state",
+        "important": false
+      },
+      {
+        "id": "83",
+        "content": "JavaScript classes provide a cleaner syntax for OOP",
+        "important": true
+      },
+      {
+        "id": "84",
+        "content": "CSS positions elements in different ways",
+        "important": false
+      },
+      {
+        "id": "85",
+        "content": "JavaScript prototypes allow for inheritance",
+        "important": true
+      },
+      {
+        "id": "86",
+        "content": "The fetch API simplifies HTTP requests",
+        "important": false
+      },
+      {
+        "id": "87",
+        "content": "CSS flexbox makes it easy to design responsive layouts",
+        "important": true
+      },
+      {
+        "id": "88",
+        "content": "JavaScript destructuring is a useful feature",
+        "important": false
+      },
+      {
+        "id": "89",
+        "content": "CSS z-index controls stacking order",
+        "important": true
+      },
+      {
+        "id": "90",
+        "content": "JavaScript's reduce method is powerful",
+        "important": false
+      },
+      {
+        "id": "91",
+        "content": "Understanding closures is key in JavaScript",
+        "important": true
+      },
+      {
+        "id": "92",
+        "content": "CSS transitions allow smooth changes",
+        "important": false
+      },
+      {
+        "id": "93",
+        "content": "JavaScript's map method transforms arrays",
+        "important": true
+      },
+      {
+        "id": "94",
+        "content": "CSS can be used to style HTML elements",
+        "important": false
+      },
+      {
+        "id": "95",
+        "content": "JavaScript is essential for interactive web pages",
+        "important": true
+      },
+      {
+        "id": "96",
+        "content": "CSS pseudo-elements allow additional styling",
+        "important": false
+      },
+      {
+        "id": "97",
+        "content": "JavaScript's filter method selects array elements",
+        "important": true
+      },
+      {
+        "id": "98",
+        "content": "CSS can be used to hide and show elements",
+        "important": false
+      },
+      {
+        "id": "99",
+        "content": "Understanding hoisting is important in JavaScript",
+        "important": true
+      },
+      {
+        "id": "100",
+        "content": "CSS grid layout is a two-dimensional layout system",
+        "important": false
+      }
+    ]
+  }
+  
