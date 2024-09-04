@@ -31,7 +31,7 @@ fetch("http://localhost:3001/notes")
       newBtn.style.backgroundColor = "rgb(15 106 179)";
       newBtn.style.color = "white";
       newBtn.style.cursor = "pointer";
-      newBtn.style.fontSize = "16px";
+      newBtn.style.fontSize = "17px";
       document.body.appendChild(newBtn);
     });
     document.querySelectorAll("button").forEach((el) => {
